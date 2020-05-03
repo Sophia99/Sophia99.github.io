@@ -1,12 +1,14 @@
-# Site settings
+﻿# Site settings
 title: Yoyo's Blog
 SEOTitle: YOYO的博客 | BY Sophia
 header-img: img/post-bg-desk.jpg
 email: 653781720@qq.com
 description: "Keep moving and keep thinking!"
 keyword: "JAVA,Git,Web Crawler"
-url: "http://Sophia99.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+#url: "http://Sophia99.github.io"          # your host, for absolute URL
+url:
+#baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl:
 github_repo: "https://github.com/Sophia99/Sophia99.github.io.git" # you code repository
 
 # Sidebar settings
